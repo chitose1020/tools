@@ -1,0 +1,3 @@
+[submodule "URLencoder"]
+	path = URLencoder
+	url = https://github.com/chitose1020/URLencoder
